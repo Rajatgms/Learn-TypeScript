@@ -14,11 +14,20 @@
   "author": "Rajat Sharma",
   "license": "ISC",
   "devDependencies": {
+    "@types/react": "^17.0.38",
+    "@types/react-dom": "^17.0.11",
+    "mini-css-extract-plugin": "^0.9.0",
+    "sass": "^1.26.9",
+    "sass-loader": "^9.0.1",
+    "css-loader": "^3.6.0",
     "ts-loader": "^6.2.1",
     "typescript": "^3.7.2",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.9.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
