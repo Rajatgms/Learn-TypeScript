@@ -7,3 +7,8 @@
   - `git checkout react-js`
 - For Node JS
   - `git checkout node-js`
+
+
+#### TypeScript Node JS Learning
+- Run `npm run dev-tsc` 
+- Run `npm start`
